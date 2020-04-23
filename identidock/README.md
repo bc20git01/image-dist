@@ -1,6 +1,4 @@
 identidock
 ==========
 
-Simple identicon server based on monsterid from Kevin Gaudin.
-
-From "Using Docker" by Adrian Mouat published by O'Reilly media.
+Modify the README to trigger the auto build
