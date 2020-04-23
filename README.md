@@ -1,2 +1,2 @@
-# Using Docker Code Examples
+# Docker Code Examples
 ## "Image Distribution"
